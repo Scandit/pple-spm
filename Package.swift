@@ -19,8 +19,8 @@ let package = Package(
     targets: [
 		.binaryTarget(
 			name: "ScanditShelf",
-			url: "https://shelf.scandit.com/packages/pple-sdk-ios-1.4.0-beta.1.zip",
-			checksum: "d42a634753ed56f1a3d478725622e2845deb2935354796f602529d30734306c2"
+			url: "https://shelf.scandit.com/packages/pple-sdk-ios-1.4.0-beta.2.zip",
+			checksum: "5e1ad85912c58025a2b11257d794fc03a7d97bca37dd4924d8e20a6ead91c3a2"
 		),
 		.binaryTarget(
 			name: "ScanditBarcodeCapture",
